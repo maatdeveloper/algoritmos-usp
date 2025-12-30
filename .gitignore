@@ -1,0 +1,6 @@
+# ignora arquivos compilados
+*.exe
+*.out
+
+# ignora configuracoes vscode
+.vscode
