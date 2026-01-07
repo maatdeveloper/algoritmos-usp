@@ -4,7 +4,7 @@
  * Data: 30/12/2025
  * 
  *  Este programa imprime uma tabela dos valores do
- * piso de log N para N = B^1, B^2, ..., B^K.
+ *  piso de log N para N = B^1, B^2, ..., B^K.
  *  Como de hábito, log é o logaritmo na base 2.
  *  Os valores são especificados na linha de comando:
  *  para executar o programa com B = 10 e K = 6, por
